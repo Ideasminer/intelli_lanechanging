@@ -1,0 +1,16 @@
+<additionals>
+
+  <e1Detector id='e1_Edge_1_0_0' lane='Edge_1_0' pos='0' length='20' freq='1' file='save_detector\e1_Edge_1_0_0.xml'/>
+  <e1Detector id='e1_Edge_1_0_1' lane='Edge_1_1' pos='0' length='20' freq='1' file='save_detector\e1_Edge_1_0_1.xml'/>
+  <e1Detector id='e1_Edge_1_100_0' lane='Edge_1_0' pos='100' length='20' freq='1' file='save_detector\e1_Edge_1_100_0.xml'/>
+  <e1Detector id='e1_Edge_1_100_1' lane='Edge_1_1' pos='100' length='20' freq='1' file='save_detector\e1_Edge_1_100_1.xml'/>
+  <e1Detector id='e1_Edge_1_200_0' lane='Edge_1_0' pos='200' length='20' freq='1' file='save_detector\e1_Edge_1_200_0.xml'/>
+  <e1Detector id='e1_Edge_1_200_1' lane='Edge_1_1' pos='200' length='20' freq='1' file='save_detector\e1_Edge_1_200_1.xml'/>
+  <e1Detector id='e1_Edge_1_300_0' lane='Edge_1_0' pos='300' length='20' freq='1' file='save_detector\e1_Edge_1_300_0.xml'/>
+  <e1Detector id='e1_Edge_1_300_1' lane='Edge_1_1' pos='300' length='20' freq='1' file='save_detector\e1_Edge_1_300_1.xml'/>
+  <e1Detector id='e1_Edge_1_400_0' lane='Edge_1_0' pos='400' length='20' freq='1' file='save_detector\e1_Edge_1_400_0.xml'/>
+  <e1Detector id='e1_Edge_1_400_1' lane='Edge_1_1' pos='400' length='20' freq='1' file='save_detector\e1_Edge_1_400_1.xml'/>
+  <e1Detector id='e1_Edge_1_500_0' lane='Edge_1_0' pos='500' length='20' freq='1' file='save_detector\e1_Edge_1_500_0.xml'/>
+  <e1Detector id='e1_Edge_1_500_1' lane='Edge_1_1' pos='500' length='20' freq='1' file='save_detector\e1_Edge_1_500_1.xml'/>
+
+</additionals>
