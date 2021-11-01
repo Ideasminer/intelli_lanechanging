@@ -14,8 +14,3 @@ Traffic simulation(SUMO based) and DQN algorithm combined. To realize intelligen
 * This repo only gives parts of codes and files now.
 * Reward design, State design may not be the most suitable. Welcome suggestions/requests/issues.
 * Neural network now uses the simplest network. Welcome suggestions.
-
-## File Structure
-
-* freeway.sumocfg	*sumo configuration file*
-* 
